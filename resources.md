@@ -37,4 +37,4 @@ https://fatconference.org/resources.html
 How do machines learning algorithms learn bias?
 https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555809a1decb
 
-https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals
+*[Controlling machine learning algorithms and their biases] https://www.mckinsey.com/business-functions/risk/our-insights/controlling-machine-learning-algorithms-and-their-biases 
