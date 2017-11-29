@@ -48,4 +48,6 @@ accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
 
 * [Algorithmic accountability](https://techcrunch.com/2017/04/30/algorithmic-accountability/)
 
+* [make algorithms accountable](https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html)
+
 * [principles for accountable algortihms](https://www.fatml.org/resources/principles-for-accountable-algorithms)
