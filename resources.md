@@ -32,3 +32,5 @@ https://fatconference.org/resources.html
 * [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)
 
 * [Why We Launched DeepMind Ethics & Society](https://deepmind.com/blog/why-we-launched-deepmind-ethics-society/)
+
+* [Responsible Data Science] (http://www.responsibledatascience.org/)
