@@ -11,7 +11,7 @@
 * [AI NOW](https://ainowinstitute.org/)
 * [AI NOW report](https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf)
 
-//www.whitecase.com/publications/insight/algorithms-and-bias-what-lenders-need-know
+* [Algorithms and bias: What lenders need to know](www.whitecase.com/publications/insight/algorithms-and-bias-what-lenders-need-know)
 
 https://theoutline.com/post/1228/when-machines-go-rogue
 
