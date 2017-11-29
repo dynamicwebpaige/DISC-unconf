@@ -25,4 +25,4 @@ https://fatconference.org/index.html
 lots of resources
 https://fatconference.org/resources.html 
 
-
+* [SAP Uses Machine Learning to Find Gender Biased Job Posts](https://www.hrtechnologist.com/news/requisitionjob-posting/sap-uses-machine-learning-to-find-gender-biased-job-posts/)
