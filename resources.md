@@ -6,7 +6,7 @@
 
 * [How I'm Fighting Bias in Algorithms (Ted Talk)](http://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
 
-https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/
+* [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
 
 AI NOW
 https://ainowinstitute.org/
