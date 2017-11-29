@@ -32,6 +32,8 @@ https://fatconference.org/resources.html
 
 * [Responsible Data Science](http://www.responsibledatascience.org/)
 
+* [Bias in software to predict future criminals - biased against blacks](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+
 How do machines learning algorithms learn bias?
 https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555809a1decb
 
