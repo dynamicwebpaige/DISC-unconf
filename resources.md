@@ -30,3 +30,5 @@ https://fatconference.org/resources.html
 * [An AI Recruiter Could Find You Your Next Job](https://www.technologyreview.com/the-download/609570/an-ai-recruiter-could-find-you-your-next-job/)
 
 * [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)
+
+* [Why We Launched DeepMind Ethics & Society](https://deepmind.com/blog/why-we-launched-deepmind-ethics-society/)
