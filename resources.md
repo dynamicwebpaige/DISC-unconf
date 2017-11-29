@@ -13,13 +13,14 @@
 
 * [Algorithms and bias: What lenders need to know](www.whitecase.com/publications/insight/algorithms-and-bias-what-lenders-need-know)
 
+https://theoutline.com/post/1228/when-machines-go-rogue
 
 * [WHY AI IS STILL WAITING FOR ITS ETHICS TRANSPLANT](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/)
 
-* Upcoming conference
+Upcoming conference
 https://fatconference.org/index.html
 
-* lots of resources
+lots of resources
 https://fatconference.org/resources.html 
 
 * [SAP Uses Machine Learning to Find Gender Biased Job Posts](https://www.hrtechnologist.com/news/requisitionjob-posting/sap-uses-machine-learning-to-find-gender-biased-job-posts/)
@@ -34,3 +35,5 @@ https://fatconference.org/resources.html
 
 How do machines learning algorithms learn bias?
 https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555809a1decb
+
+https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals
