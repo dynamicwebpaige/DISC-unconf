@@ -22,4 +22,7 @@ https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/
 Upcoming conference
 https://fatconference.org/index.html
 
+lots of resources
+https://fatconference.org/resources.html 
+
 
