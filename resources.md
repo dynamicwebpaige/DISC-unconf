@@ -15,7 +15,7 @@
 
 https://theoutline.com/post/1228/when-machines-go-rogue
 
-https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/
+* [WHY AI IS STILL WAITING FOR ITS ETHICS TRANSPLANT](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/)
 
 Upcoming conference
 https://fatconference.org/index.html
