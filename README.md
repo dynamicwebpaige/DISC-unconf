@@ -1,7 +1,3 @@
-# Guidelines for Data Collection 
-1. Clear user need and public benefit
-2. Use data and tools that are minimally intrusive 
-
 # Guidelines for Ethical Models
 - Literature Review
 - Successful examples of ethical model creation
