@@ -40,3 +40,6 @@ How do machines learning algorithms learn bias?
 https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555809a1decb
 
 * [Controlling machine learning algorithms and their biases](https://www.mckinsey.com/business-functions/risk/our-insights/controlling-machine-learning-algorithms-and-their-biases)
+
+* [Counterfactual Fairness - Causal models capture social biases and make clear the implicit trade-off between prediction
+accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
