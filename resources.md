@@ -16,10 +16,10 @@
 
 * [WHY AI IS STILL WAITING FOR ITS ETHICS TRANSPLANT](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/)
 
-Upcoming conference-- 
+* Upcoming conference-- 
 https://fatconference.org/index.html
 
-lots of resources--
+* lots of resources--
 https://fatconference.org/resources.html 
 
 * [SAP Uses Machine Learning to Find Gender Biased Job Posts](https://www.hrtechnologist.com/news/requisitionjob-posting/sap-uses-machine-learning-to-find-gender-biased-job-posts/)
