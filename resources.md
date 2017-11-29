@@ -4,7 +4,7 @@
 
 * [Turns Out Algorithms Are Racist](https://newrepublic.com/article/144644/turns-algorithms-racist?utm_content=buffer7f3ea&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
-http://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms
+* [How I'm Fighting Bias in Algorithms (Ted Talk)](http://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
 
 https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/
 
