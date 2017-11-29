@@ -8,9 +8,10 @@
 
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
 
-* [AI NOW](https://ainowinstitute.org/)
-* [AI NOW report]
-(https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf)
+AI NOW
+https://ainowinstitute.org/
+AI NOW report
+https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf
 
 //www.whitecase.com/publications/insight/algorithms-and-bias-what-lenders-need-know
 
@@ -33,3 +34,6 @@ https://fatconference.org/resources.html
 * [Why We Launched DeepMind Ethics & Society](https://deepmind.com/blog/why-we-launched-deepmind-ethics-society/)
 
 * [Responsible Data Science](http://www.responsibledatascience.org/)
+
+How do machines learning algorithms learn bias?
+https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555809a1decb
