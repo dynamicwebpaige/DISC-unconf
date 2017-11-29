@@ -43,3 +43,5 @@ https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555
 
 * [Counterfactual Fairness - Causal models capture social biases and make clear the implicit trade-off between prediction
 accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
+
+* [IEEE standards for AI ethics](http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html)
