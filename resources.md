@@ -33,4 +33,4 @@ https://fatconference.org/resources.html
 
 * [Why We Launched DeepMind Ethics & Society](https://deepmind.com/blog/why-we-launched-deepmind-ethics-society/)
 
-* [Responsible Data Science] (http://www.responsibledatascience.org/)
+* [Responsible Data Science](http://www.responsibledatascience.org/)
