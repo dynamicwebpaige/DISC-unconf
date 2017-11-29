@@ -1,4 +1,4 @@
-##Outline
+## Outline
 
 1. Finding bais in algorithm. Looking at Ethical and Unethical Algorithms
 
