@@ -34,6 +34,8 @@ https://fatconference.org/resources.html
 
 * [Bias in software to predict future criminals - biased against blacks](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
+* [Partnership in AI](https://www.partnershiponai.org)
+
 How do machines learning algorithms learn bias?
 https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555809a1decb
 
