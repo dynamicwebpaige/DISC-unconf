@@ -45,3 +45,7 @@ https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555
 accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
 
 * [IEEE standards for AI ethics](http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html)
+
+* [Algorithmic accountability](https://techcrunch.com/2017/04/30/algorithmic-accountability/)
+
+* [principles for accountable algortihms](https://www.fatml.org/resources/principles-for-accountable-algorithms)
