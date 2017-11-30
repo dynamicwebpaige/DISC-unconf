@@ -15,36 +15,27 @@ We are at a stage in technology where we need to make wide decisions of how we w
 	HOW WE CODE MATTERS?[ ^ [1]]
 	WHY WE CODE MATTERS?[ ^ [1]]
 
-There needs to be a system that audits the existing software for impact that it has on minorities. There is a need to diversify our data 
-There is a website where you can report discrimination that you’ve faced while using AI
-https://www.ajlunited.org/fight
- 
+There needs to be a system that audits the existing software for impact that it has on minorities. There is a need to diversify our data. There is a [website](https://www.ajlunited.org/fight) where you can report discrimination that you’ve faced while using AI.
 
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
 
-
-* [AI NOW](https://ainowinstitute.org/)
-* [AI NOW report](https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf)
+* [AI Now](https://ainowinstitute.org/)
+* [AI Now report](https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf)
 
 * [Algorithms and bias: What lenders need to know](www.whitecase.com/publications/insight/algorithms-and-bias-what-lenders-need-know)
 
-
 * [WHY AI IS STILL WAITING FOR ITS ETHICS TRANSPLANT](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/)
 
-
-* Upcoming conference-- 
-https://fatconference.org/index.html
-The first FAT (Fairness Accountability Transparency in socio-technical systems) conference to be held in Feb 2018 in NYC.
+* [Upcoming conference](https://fatconference.org/index.html)
+The first FAT (Fairness Accountability Transparency in socio-technical systems) conference is to be held in Feb 2018 in NYC.
 FAT* is an annual conference dedicating to bringing together a diverse community to investigate and tackle issues in this emerging area. Topics of interest include, but are not limited to:
 
-The theory and practice of fair and interpretable Machine Learning, Information Retrieval, NLP, and Computer Vision
-Measurement and auditing of deployed systems
-Users' experience of algorithms, and design interventions to empower users
-The ethical, moral, social, and policy implications of big data and ubiquitous intelligent systems
+ * The theory and practice of fair and interpretable Machine Learning, Information Retrieval, NLP, and Computer Vision
+ * Measurement and auditing of deployed systems
+ * Users' experience of algorithms, and design interventions to empower users
+ * The ethical, moral, social, and policy implications of big data and ubiquitous intelligent systems
 
-Conference on Fairness, Accountability, and Transparency - Call for Tutorials
-
-https://fatconference.org/2018/cftutorials.html
+Conference on Fairness, Accountability, and Transparency - [Call for Tutorials](https://fatconference.org/2018/cftutorials.html)
 
 We are soliciting calls for two types of tutorials at FAT* 2018: hands-on tutorials and translation tutorials. Both types of tutorials will give presenters 1 hour to address technical and/or policy/law FAT* issues for a broad audience.
 
