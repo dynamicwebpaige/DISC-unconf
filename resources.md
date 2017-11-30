@@ -28,6 +28,10 @@ This article provides a guide on what banks need to consider when using AIs to m
 
 ### Solutions - 
 
+* [Counterfactual Fairness](https://arxiv.org/pdf/1703.06856.pdf)
+
+Causal models capture social biases and make clear the implicit trade-off between prediction accuracy and fairness in an unfair world
+
 * [How We Examined Racial Discrimination in Auto Insurance Prices](https://www.propublica.org/article/minority-neighborhoods-higher-car-insurance-premiums-methodology)
 
 As AI becomes more and more complex, it can become difficult for even its own designers understand why it acts the way it does. A nationwide study by the Consumer Federation of America in 2015 found that predominantly African-American neighborhoods pay 70 percent more, on average, for premiums than other areas do. We analyzed aggregate risk data by zip code collected by the insurance commissioners of California, Illinois, Missouri and Texas from insurers in their states.
@@ -49,13 +53,9 @@ Similar statistics were shown in other states as well. Insurance companies fight
 
 There needs to be a system that audits the existing software for impact that it has on minorities. There is a need to diversify our data. There is a [website](https://www.ajlunited.org/fight) where you can report discrimination that you’ve faced while using AI.
 
-There is a website where you can report discrimination that you’ve faced while using AI
-https://www.ajlunited.org/fight
- 
-* [Controlling machine learning algorithms and their biases](https://www.mckinsey.com/business-functions/risk/our-insights/controlling-machine-learning-algorithms-and-their-biases) 
+[Here](https://www.ajlunited.org/fight) is a website where you can report discrimination that you’ve faced while using AI
 
-* [Counterfactual Fairness - Causal models capture social biases and make clear the implicit trade-off between prediction
-accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
+* [Controlling machine learning algorithms and their biases](https://www.mckinsey.com/business-functions/risk/our-insights/controlling-machine-learning-algorithms-and-their-biases) 
 
 * [Attacking Discrimination in ML- google research paper](https://research.google.com/bigpicture/attacking-discrimination-in-ml/)
 
