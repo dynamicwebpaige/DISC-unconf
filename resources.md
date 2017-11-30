@@ -22,22 +22,28 @@ We are at a stage in technology where we need to make wide decisions of how we w
 
 * [How I'm Fighting Bias in Algorithms (Ted Talk)](http://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
 
- What if you go to the washroom and the tap does not respond to your hands but it does for your your friend’s. Computer Vision uses images to recognize people and objects. But what if we train it with undiversified dataset[^[1]]. It will only respond to white skin because that is only what it has seen. There have been reported indices when a webcam is not able to detect black faces.[1] Not only this image recognition softwares have been associating cleaning or the kitchen with women, for example and sports with men[^[1]].
+   What if you go to the washroom and the tap does not respond to your hands but it does for your your friend’s. Computer 
+   Vision uses images to recognize people and objects. But what if we train it with undiversified dataset[^[1]]. It will only 
+   respond to white skin because that is only what it has seen. There have been reported indices when a webcam is not able to 
+   detect black faces.[1] Not only this image recognition softwares have been associating cleaning or the kitchen with women, 
+   for example and sports with men[^[1]].
 
 
 	WHO CODES MATTERS? <sup>1</sup>
 	HOW WE CODE MATTERS?[ ^ [1]]
 	WHY WE CODE MATTERS?[ ^ [1]]
 
-There needs to be a system that audits the existing software for impact that it has on minorities. There is a need to diversify our data 
-There is a website where you can report discrimination that you’ve faced while using AI
-https://www.ajlunited.org/fight
+   There needs to be a system that audits the existing software for impact that it has on minorities. There is a need to 
+   diversify our data 
+   
+   [Here](https://www.ajlunited.org/fight) is a website where you can report discrimination that you’ve faced while using AI
  
 * [Controlling machine learning algorithms and their biases](https://www.mckinsey.com/business-functions/risk/our-insights/controlling-machine-learning-algorithms-and-their-biases) 
 
 * [Counterfactual Fairness](https://arxiv.org/pdf/1703.06856.pdf)
 
-Causal models capture social biases and make clear the implicit trade-off between prediction accuracy and fairness in an unfair world
+   Causal models capture social biases and make clear the implicit trade-off between prediction accuracy and fairness in an 
+   unfair world
 
 * [Attacking Discrimination in ML- google research paper](https://research.google.com/bigpicture/attacking-discrimination-in-ml/)
 
