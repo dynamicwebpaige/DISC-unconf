@@ -96,6 +96,10 @@ https://fatconference.org/resources.html
    
 * [Responsible Data Science](http://www.responsibledatascience.org/)
 
+  Responsible Data Science is a novel collaboration between principal scientists from 11 universities and research institutes 
+  in the Netherlands. RDS aims to provide the technology to build in fairness, accuracy, confidentiality, and transparency in 
+  systems thus ensuring responsible use without inhibiting the power of data science. They conduct seminars and workshops (so 
+  far within Netherlands) and the material is available on their webpage as well. 
 
 ---------------------------- Abhipsa ------------------------------
 * [How do machines learning algorithms learn bias?](https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555809a1decb)
