@@ -91,6 +91,12 @@ Once the concept and scope have been defined, it is time to focus on the acquisi
 ### Build
 
 #### Data Process
+How will you choose your analytical method? For example, predictive analytics, machine learning (supervised, unsupervised), neural networks or deep learning, etc.
+
+* How much transparency does this method allow your end users and yourself?
+* Are non-deterministic outcomes acceptable given your legal or ethical obligations around transparency and explainability?
+* Does your choice of analytical method allow you to sufficiently explain your results?
+* What particular tasks are associated with the type of analytical method you are using?
 
 ![](data/10.JPG)
 
@@ -171,6 +177,10 @@ After you audit the results, you must **test the model on preliminary data set(s
 * Are these results a good basis on which to make a decision?
 
 ![](data/19.JPG)
+
+##### Interpret Results
+
+//////////////////// CHECK //////////////////
 
 #### Monitor Results
 
