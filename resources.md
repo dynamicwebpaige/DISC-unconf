@@ -20,6 +20,13 @@
 ---------------------------- Bernie -------------------------------
 * Upcoming conference-- 
 https://fatconference.org/index.html
+The first FAT (Fairness Accountability Transparency in socio-technical systems) conference to be held in Feb 2018 in NYC.
+FAT* is an annual conference dedicating to bringing together a diverse community to investigate and tackle issues in this emerging area. Topics of interest include, but are not limited to:
+
+The theory and practice of fair and interpretable Machine Learning, Information Retrieval, NLP, and Computer Vision
+Measurement and auditing of deployed systems
+Users' experience of algorithms, and design interventions to empower users
+The ethical, moral, social, and policy implications of big data and ubiquitous intelligent systems
 
 * lots of resources--
 https://fatconference.org/resources.html 
