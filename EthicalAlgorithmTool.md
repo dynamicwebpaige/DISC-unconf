@@ -1,6 +1,6 @@
-# [Center for Democracy & Technology](https://cdt.org/): So You Want to Build an Algorithm...
+# [Center for Democracy & Technology](https://cdt.org/)
 
-## Creating an Ethical Algorithm
+## So You Want to Build an Ethical Algorithm...
 
-![](data/1.jpg)
-![](data/2.jpg)
+![](data/1.JPG)
+![](data/2.JPG)
