@@ -2,6 +2,8 @@
 
 ## So You Want to Build an Ethical Algorithm...
 
+### Design
+After defining the goal and the purpose of your machine learning product, you must first ask: **Who is your audience?**
 ![](data/1.JPG)
 ![](data/2.JPG)
 ![](data/3.JPG)
