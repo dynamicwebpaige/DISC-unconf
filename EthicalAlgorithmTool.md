@@ -5,7 +5,7 @@
 ### Design
 
 #### Concept
-As your design the goal and the purpose of your machine learning product, you must first ask: **Who is your audience?**
+As you design the goal and the purpose of your machine learning product, you must first ask: **Who is your audience?**
 
 * Is your product or analysis meant to include all people?
 * And, if not: is it targeted to an exclusive audience?
