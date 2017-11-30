@@ -1,5 +1,5 @@
 ## References 
-
+---------------------------- Disha -------------------------------
 * [How We Examined Racial Discrimination in Auto Insurance Prices](https://www.propublica.org/article/minority-neighborhoods-higher-car-insurance-premiums-methodology)
 
 * [Turns Out Algorithms Are Racist](https://newrepublic.com/article/144644/turns-algorithms-racist?utm_content=buffer7f3ea&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
@@ -8,6 +8,7 @@
 
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
 
+---------------------------- Bobby -------------------------------
 * [AI NOW](https://ainowinstitute.org/)
 * [AI NOW report](https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf)
 
@@ -15,7 +16,7 @@
 
 
 * [WHY AI IS STILL WAITING FOR ITS ETHICS TRANSPLANT](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/)
-
+---------------------------- Bernie -------------------------------
 * Upcoming conference-- 
 https://fatconference.org/index.html
 
@@ -26,6 +27,7 @@ https://fatconference.org/resources.html
 
 * [An AI Recruiter Could Find You Your Next Job](https://www.technologyreview.com/the-download/609570/an-ai-recruiter-could-find-you-your-next-job/)
 
+---------------------------- Zairah -------------------------------
 * [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)
 
 * [Why We Launched DeepMind Ethics & Society](https://deepmind.com/blog/why-we-launched-deepmind-ethics-society/)
@@ -33,7 +35,7 @@ https://fatconference.org/resources.html
 * [Responsible Data Science](http://www.responsibledatascience.org/)
 
 * [Bias in software to predict future criminals - biased against blacks](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
-
+----------------------------------------------------------------------
 * [Partnership in AI](https://www.partnershiponai.org)
 
 How do machines learning algorithms learn bias?
