@@ -4,7 +4,21 @@
 
 * [Turns Out Algorithms Are Racist](https://newrepublic.com/article/144644/turns-algorithms-racist?utm_content=buffer7f3ea&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
+We are at a stage in technology where we need to make wide decisions of how we wish to learn from the past. Do we wish to imitate it or bring about a change. We need to challenge the inequalities that are present in the society. The first stage for this is the design process where the Data Scientist needs to understand which features are making the features bais. One should not let the black box decide and offers pronouncements and that we are encouraged to obey.
+
 * [How I'm Fighting Bias in Algorithms (Ted Talk)](http://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
+
+ What if you go to the washroom and the tap does not respond to your hands but it does for your your friend’s. Computer Vision uses images to recognize people and objects. But what if we train it with undiversified dataset[^[1]]. It will only respond to white skin because that is only what it has seen. There have been reported indices when a webcam is not able to detect black faces.[1] Not only this image recognition softwares have been associating cleaning or the kitchen with women, for example and sports with men[^[1]].
+
+
+	WHO CODES MATTERS? <sup>1</sup>
+	HOW WE CODE MATTERS?[ ^ [1]]
+	WHY WE CODE MATTERS?[ ^ [1]]
+
+There needs to be a system that audits the existing software for impact that it has on minorities. There is a need to diversify our data 
+There is a website where you can report discrimination that you’ve faced while using AI
+https://www.ajlunited.org/fight
+ 
 
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
 
