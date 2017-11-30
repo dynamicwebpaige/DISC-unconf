@@ -53,3 +53,5 @@ accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
 * [principles for accountable algortihms](https://www.fatml.org/resources/principles-for-accountable-algorithms)
 
 * [Book: What Algorithms Want - Ed Finn](https://mitpress.mit.edu/books/what-algorithms-want)
+
+* [Attacking Discrimination in ML- google research paper](https://research.google.com/bigpicture/attacking-discrimination-in-ml/)
