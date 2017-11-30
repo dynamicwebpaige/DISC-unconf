@@ -128,6 +128,6 @@ accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
 
 * [Link to White Paper Containing Question Tool](https://cdt.org/issue/privacy-data/digital-decisions/)
 
-* [Website to report bias] (https://www.ajlunited.org/fight)
+* [Report bias](https://www.ajlunited.org/fight)
 
 * [Bias in software to predict future criminals - biased against blacks](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
