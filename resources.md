@@ -76,7 +76,7 @@ https://fatconference.org/resources.html
 * [An AI Recruiter Could Find You Your Next Job](https://www.technologyreview.com/the-download/609570/an-ai-recruiter-could-find-you-your-next-job/)
 
 ---------------------------- Zairah -------------------------------
-* [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)
+* [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)\s\s
   DeepMind's Ethics & Society is a research unit within DeepMind that aims to explore and better understand the real-world    
   impacts of AI.  It aims to help technologists put ethics into practice and help society anticipate and control the effects 
   of AI, by enlisting some questions around - 
