@@ -78,34 +78,56 @@ https://fatconference.org/resources.html
 ---------------------------- Zairah -------------------------------
 * [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)
 
+  DeepMind's Ethics & Society is a research unit within DeepMind that aims to explore and better understand the real-world    
+  impacts of AI.  It aims to help technologists put ethics into practice and help society anticipate and control the effects 
+  of AI, by enlisting some questions around - 
+  * privacy
+  * transparency 
+  * fairness 
+  * governence and accountability
+  that should be addressed throughout the life cycle of projects. 
+
 * [Why We Launched DeepMind Ethics & Society](https://deepmind.com/blog/why-we-launched-deepmind-ethics-society/)
 
+  Quoting DeepMind's Ethics webpage:
+  
+  "The development of AI creates important and complex questions. Its impact on society—and on all our lives—is not something    that should be left to chance. Beneficial outcomes and protections against harms must be actively fought for and built-in 
+   from the beginning. But in a field as complex as AI, this is easier said than done"
+  
+  
+  DeepMind being the world leader in artificial intelligence research and its application for positive impact, provides clear   motivation and need to include ethics in AI. It is imperative to have similar ethics groups working hand in hand with the     development teams in all organizations. 
+   
 * [Responsible Data Science](http://www.responsibledatascience.org/)
 
-* [Bias in software to predict future criminals - biased against blacks](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
-----------------------------------------------------------------------
-* [Partnership in AI](https://www.partnershiponai.org)
 
-How do machines learning algorithms learn bias?
-https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555809a1decb
+---------------------------- Abhipsa ------------------------------
+* [How do machines learning algorithms learn bias?](https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555809a1decb)
 
 * [Controlling machine learning algorithms and their biases](https://www.mckinsey.com/business-functions/risk/our-insights/controlling-machine-learning-algorithms-and-their-biases)
 
 * [Counterfactual Fairness - Causal models capture social biases and make clear the implicit trade-off between prediction
 accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
 
+* [Attacking Discrimination in ML- google research paper](https://research.google.com/bigpicture/attacking-discrimination-in-ml/)
+
+* [Equality Opportunity](https://drive.google.com/file/d/0B-wQVEjH9yuhanpyQjUwQS1JOTQ/view)
+
+* [principles for accountable algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms)
+
+-----------------------------------------------------------------------------------------
+
+* [make algorithms accountable](https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html)
+
 * [IEEE standards for AI ethics](http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html)
 
 * [Algorithmic accountability](https://techcrunch.com/2017/04/30/algorithmic-accountability/)
 
-* [make algorithms accountable](https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html)
-
-* [principles for accountable algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms)
+* [Partnership in AI](https://www.partnershiponai.org)
 
 * [Book: What Algorithms Want - Ed Finn](https://mitpress.mit.edu/books/what-algorithms-want)
 
-* [Attacking Discrimination in ML- google research paper](https://research.google.com/bigpicture/attacking-discrimination-in-ml/)
-
 * [Link to White Paper Containing Question Tool](https://cdt.org/issue/privacy-data/digital-decisions/)
 
-* [Equality Opportunity](https://drive.google.com/file/d/0B-wQVEjH9yuhanpyQjUwQS1JOTQ/view)
+* [Website to report bias] (https://www.ajlunited.org/fight)
+
+* [Bias in software to predict future criminals - biased against blacks](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
