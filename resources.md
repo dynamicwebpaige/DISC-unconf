@@ -133,8 +133,23 @@ accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
 
 * [make algorithms accountable](https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html)
 
+This is a NY times article about how there needs to be increased transparency and accountability when it comes to examining data used by algorithms. A case of where an algorithm detecting the risk of criminal recidivism was biased against black defendants is established as an example for such a need. The article goes over efforts by the European Union to regulate such algorithms as well as recommendations from the White House on holding such algorithms accountable.
+
 * [IEEE standards for AI ethics](http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html)
 
+The IEEE has published standards for the ethical application of AI. They are group into these broad categories covering social, privacy, and military impacts:
+
+  * Executive Summary
+  * General Principles
+  * Embedding Values Into Autonomous Intelligent Systems
+  * Methodologies to Guide Ethical Research and Design
+  * Safety and Beneficence of Artificial General Intelligence (AGI) and Artificial Superintelligence (ASI)
+  * Personal Data and Individual Access Control
+  * Reframing Autonomous Weapons Systems
+  * Economics/Humanitarian Issues
+  * Law
+  
+  
 * [Algorithmic accountability](https://techcrunch.com/2017/04/30/algorithmic-accountability/)
 
 * [Partnership in AI](https://www.partnershiponai.org)
