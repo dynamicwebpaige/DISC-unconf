@@ -82,10 +82,7 @@ Submissions should be emailed in PDF format to the PC Co-chairs: Sorelle Friedle
 
 Fairness, Accountability, and Transparency in Machine Learning - http://fatml.org/
 
-* lots of resources--
-https://fatconference.org/resources.html 
-
-
+* [Resources](https://fatconference.org/resources.html)
 
 * [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)
 
@@ -128,8 +125,6 @@ accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
 * [Equality Opportunity](https://drive.google.com/file/d/0B-wQVEjH9yuhanpyQjUwQS1JOTQ/view)
 
 * [principles for accountable algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms)
-
------------------------------------------------------------------------------------------
 
 * [make algorithms accountable](https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html)
 
