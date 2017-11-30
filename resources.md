@@ -50,7 +50,7 @@ accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
 
 * [make algorithms accountable](https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html)
 
-* [principles for accountable algortihms](https://www.fatml.org/resources/principles-for-accountable-algorithms)
+* [principles for accountable algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms)
 
 * [Book: What Algorithms Want - Ed Finn](https://mitpress.mit.edu/books/what-algorithms-want)
 
