@@ -8,6 +8,27 @@ We are at a stage in technology where we need to make wide decisions of how we w
 
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
 
+
+---------------------------- Bobby -------------------------------
+
+* [AI NOW](https://ainowinstitute.org/)
+
+AI NOW is a research center based out of New York University focusing on the social implications of AI. Their research focuses on studying biases made by AIs that are used to make decisions related to housing, criminal justice, and employment. They also focus on determining the bias in datasets used to train AIs. Finally, they study how to safely integrate AIs into algorithms used by critical infrastructures.
+
+* [AI NOW report](https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf)
+
+The AI NOW report summaries several recommendations made by AI NOW in the implementation of AI algorithms for making decisions in hiring, housing, as well as addressing biases in AI research itself. The report also contains a comprehensive literature review summarizing recent work in studying the social implications of AI.
+
+* [Algorithms and bias: What lenders need to know](www.whitecase.com/publications/insight/algorithms-and-bias-what-lenders-need-know)
+
+This article provides a guide on what banks need to consider when using AIs to make decisions regarding lending. It details several main points:
+
+     * AIs learn by using preexisting data that has the desired result already determined through manual means, which is subject to bias.
+     * While consumers can view their own credit report and check for its accuracy, there could be data from nontraditional sources which are not available to the consumer to check which lack transarency. This can even go as far as looking at social patterns, such as where a person shops or who they interact with.
+     * Recommendations are made that lenders monitor changing regulations and test for potential bias.
+     * Any feature in the algorithm should be carefully justified.
+     * Algorithms to examine bias in AI algorithms should be developed.
+
 * [Algorithms and bias: What lenders need to know](www.whitecase.com/publications/insight/algorithms-and-bias-what-lenders-need-know)
 
 * [WHY AI IS STILL WAITING FOR ITS ETHICS TRANSPLANT](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/)
@@ -61,6 +82,7 @@ accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
 
 * [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)
 
+
   DeepMind's Ethics & Society is a research unit within DeepMind that aims to explore and better understand the real-world    
   impacts of AI. It aims to help technologists put ethics into practice and help society anticipate and control the effects 
   of AI, by enlisting some questions around:
@@ -92,6 +114,12 @@ accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
 * [IEEE standards for AI ethics](http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html)
 
 * [Website to report bias] (https://www.ajlunited.org/fight)
+
+
+This is an interview of Kate Crawford, a cofounder of AI Now, conducted by WIRED magazine. She is asked several questions which include  the current state of ethics in AI, how AI developers need to both hire people outside of computer science to better understand social implications, and the state of government funding of ethics research under the Trump adminstration.
+     
+---------------------------- Bernie -------------------------------
+=======
 
 * Upcoming conference-- 
 https://fatconference.org/index.html
@@ -148,6 +176,26 @@ Fairness, Accountability, and Transparency in Machine Learning - http://fatml.or
 ### Miscellaneous - 
 
 * [make algorithms accountable](https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html)
+
+<
+This is a NY times article about how there needs to be increased transparency and accountability when it comes to examining data used by algorithms. A case of where an algorithm detecting the risk of criminal recidivism was biased against black defendants is established as an example for such a need. The article goes over efforts by the European Union to regulate such algorithms as well as recommendations from the White House on holding such algorithms accountable.
+
+* [IEEE standards for AI ethics](http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html)
+
+The IEEE has published standards for the ethical application of AI. They are group into these broad categories covering social, privacy, and military impacts:
+
+  * Executive Summary
+  * General Principles
+  * Embedding Values Into Autonomous Intelligent Systems
+  * Methodologies to Guide Ethical Research and Design
+  * Safety and Beneficence of Artificial General Intelligence (AGI) and Artificial Superintelligence (ASI)
+  * Personal Data and Individual Access Control
+  * Reframing Autonomous Weapons Systems
+  * Economics/Humanitarian Issues
+  * Law
+  
+  
+=======
 
 * [Algorithmic accountability](https://techcrunch.com/2017/04/30/algorithmic-accountability/)
 
