@@ -1,6 +1,6 @@
 ## References 
 
-Algos are Biased - 
+### Algos are Biased - 
 
 * [How We Examined Racial Discrimination in Auto Insurance Prices](https://www.propublica.org/article/minority-neighborhoods-higher-car-insurance-premiums-methodology) -  Solution
 
