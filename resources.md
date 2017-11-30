@@ -71,9 +71,6 @@ Fairness, Accountability, and Transparency in Machine Learning - http://fatml.or
 * lots of resources--
 https://fatconference.org/resources.html 
 
-* [SAP Uses Machine Learning to Find Gender Biased Job Posts](https://www.hrtechnologist.com/news/requisitionjob-posting/sap-uses-machine-learning-to-find-gender-biased-job-posts/)
-
-* [An AI Recruiter Could Find You Your Next Job](https://www.technologyreview.com/the-download/609570/an-ai-recruiter-could-find-you-your-next-job/)
 
 ---------------------------- Zairah -------------------------------
 * [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)
@@ -102,7 +99,7 @@ https://fatconference.org/resources.html
   Responsible Data Science is a novel collaboration between principal scientists from 11 universities and research institutes 
   in the Netherlands. RDS aims to provide the technology to build in fairness, accuracy, confidentiality, and transparency in 
   systems thus ensuring responsible use without inhibiting the power of data science. They conduct seminars and workshops (so 
-  far within Nethelands) and the material is available on their webpage as well. 
+  far within Netherlands) and the material is available on their webpage as well. 
 
 ---------------------------- Abhipsa ------------------------------
 * [How do machines learning algorithms learn bias?](https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555809a1decb)
