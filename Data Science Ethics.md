@@ -19,7 +19,7 @@ Public attitudes to data are changing. Working with data in a way which makes th
    * Use synthetic data to get results
    * Query against datasets through APIs rather than having access to the whole data set. 
    
-  You must take reasonable steps to ensure that individuals will not be identifiable when you link data or combine it with
+    + You must take reasonable steps to ensure that individuals will not be identifiable when you link data or combine it with
   other data in the public domain. The increasing number of data sets available now or in the future means that it might be
   easier to link to other open data sources to infer to an individual's identity or personal information about them.
  
