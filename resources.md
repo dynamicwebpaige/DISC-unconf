@@ -4,6 +4,8 @@
 
 * [Turns Out Algorithms Are Racist](https://newrepublic.com/article/144644/turns-algorithms-racist?utm_content=buffer7f3ea&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
+We are at a stage in technology where we need to make wide decisions of how we wish to learn from the past. Do we wish to imitate it or bring about a change. We need to challenge the inequalities that are present in the society. The first stage for this is the design process where the Data Scientist needs to understand which features are making the features bais. One should not let the black box decide and offers pronouncements and that we are encouraged to obey.
+
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
 
 * [Algorithms and bias: What lenders need to know](www.whitecase.com/publications/insight/algorithms-and-bias-what-lenders-need-know)
@@ -18,32 +20,32 @@
 
 * [How We Examined Racial Discrimination in Auto Insurance Prices](https://www.propublica.org/article/minority-neighborhoods-higher-car-insurance-premiums-methodology)
 
-We are at a stage in technology where we need to make wide decisions of how we wish to learn from the past. Do we wish to imitate it or bring about a change. We need to challenge the inequalities that are present in the society. The first stage for this is the design process where the Data Scientist needs to understand which features are making the features bais. One should not let the black box decide and offers pronouncements and that we are encouraged to obey.
+As AI becomes more and more complex, it can become difficult for even its own designers understand why it acts the way it does. A nationwide study by the Consumer Federation of America in 2015 found that predominantly African-American neighborhoods pay 70 percent more, on average, for premiums than other areas do. We analyzed aggregate risk data by zip code collected by the insurance commissioners of California, Illinois, Missouri and Texas from insurers in their states.
+* They found that some insurers were charging statistically significantly higher premiums in predominantly minority zip codes, on average, than in similarly risky non-minority zip codes. 
+* Studies of auto insurance rates in Texas found that “drivers in poor and minority communities were disproportionately rejected by standard insurers and forced into the higher cost non-standard” insurance plans that are designed as a last resort for people who can’t otherwise buy insurance.
+
+Similar statistics were shown in other states as well. Insurance companies fight that it is completely based not risk and they have removed racial features while training their model but demographies are the latent features that are strongly correlated with communities. These latent features bring bais in the model.
+
 
 * [How I'm Fighting Bias in Algorithms (Ted Talk)](http://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
 
-   What if you go to the washroom and the tap does not respond to your hands but it does for your your friend’s. Computer 
-   Vision uses images to recognize people and objects. But what if we train it with undiversified dataset[^[1]]. It will only 
-   respond to white skin because that is only what it has seen. There have been reported indices when a webcam is not able to 
-   detect black faces.[1] Not only this image recognition softwares have been associating cleaning or the kitchen with women, 
-   for example and sports with men[^[1]].
+
+ What if you go to the washroom and the tap does not respond to your hands but it does for your your friend’s. Computer Vision uses images to recognize people and objects. But what if we train it with undiversified dataset[^[1]]. It will only respond to white skin because that is only what it has seen. There have been reported indices when a webcam is not able to detect black faces.[1] Not only this image recognition softwares have been associating cleaning or the kitchen with women, for example and sports with men[^[1]].
 
 
 	WHO CODES MATTERS? <sup>1</sup>
 	HOW WE CODE MATTERS?[ ^ [1]]
 	WHY WE CODE MATTERS?[ ^ [1]]
 
-   There needs to be a system that audits the existing software for impact that it has on minorities. There is a need to 
-   diversify our data 
-   
-   [Here](https://www.ajlunited.org/fight) is a website where you can report discrimination that you’ve faced while using AI
+There needs to be a system that audits the existing software for impact that it has on minorities. There is a need to diversify our data. There is a [website](https://www.ajlunited.org/fight) where you can report discrimination that you’ve faced while using AI.
+
+There is a website where you can report discrimination that you’ve faced while using AI
+https://www.ajlunited.org/fight
  
 * [Controlling machine learning algorithms and their biases](https://www.mckinsey.com/business-functions/risk/our-insights/controlling-machine-learning-algorithms-and-their-biases) 
 
-* [Counterfactual Fairness](https://arxiv.org/pdf/1703.06856.pdf)
-
-   Causal models capture social biases and make clear the implicit trade-off between prediction accuracy and fairness in an 
-   unfair world
+* [Counterfactual Fairness - Causal models capture social biases and make clear the implicit trade-off between prediction
+accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
 
 * [Attacking Discrimination in ML- google research paper](https://research.google.com/bigpicture/attacking-discrimination-in-ml/)
 
@@ -55,7 +57,7 @@ We are at a stage in technology where we need to make wide decisions of how we w
 
 * [AI NOW](https://ainowinstitute.org/)
 
-* [AI NOW report](https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf)
+* [AI NOW report](https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf)-ORG
 
 * [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)
 
