@@ -16,6 +16,7 @@
 
 
 * [WHY AI IS STILL WAITING FOR ITS ETHICS TRANSPLANT](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/)
+
 ---------------------------- Bernie -------------------------------
 * Upcoming conference-- 
 https://fatconference.org/index.html
