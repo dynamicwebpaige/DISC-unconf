@@ -11,7 +11,10 @@ Public attitudes to data are changing. Working with data in a way which makes th
 ## Some Key Principles
 1. **Start with clear user need and public benefit** - Data science offers huge opportunities to create evidence for policy making  and also make quicker and more accurate decisions. Being clear about the benefit you seek to achieve will help you justify the sensitivity of the data and the methods you want to use.
 
-2. **Use data tools which have minimum intrusion necessary** - Use minimum data necessary. Sometimes you will need to use sensitive data personal data. You can take steps to safeguard people’s privacy e.g de-identifying or aggregating data to higher levels or using synthetic data.
+2. **Use data tools which have minimum intrusion necessary** - Use minimum data necessary. Sometimes you will need to use sensitive data personal data. You can take steps to safeguard people’s privacy e.g de-identifying or aggregating data to higher levels or using synthetic data. Some data science projects have direct and tangible benefits to individuals & some will improve policymakers understanding so that they can develop better policy. Creating a use case means that you can translate why better understanding will have benefits for individuals. Creating a use case will help you to:
+    * Consider what risks it justifies and therefore what data and method you should use; risk to privacy(np), risk of making mistakes	and negative unintended consequences.
+    * Start to think about what decisions might be taken as a result of the insight
+
 
 3. **Create robust data science models** - Good machine learning models can analyse far larger amounts of data far more quickly and accurately than traditional methods. We should think through the quality and representativeness of the data, flag if algorithms are using protected characteristics e.g ethnicity to make decisions, think through unintended consequences. Complex decisions may well need the wider knowledge of policy or operational experts.
 
