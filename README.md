@@ -11,10 +11,10 @@ This repository contains a collection of materials designed to assist in the cre
 
 #### Contributing Authors
 
-* Paige Bailey (@dynamicwebpaige)
-* Abhipsa Behera (@abhipsa92)
-* Bernie Boscoe (@bboscoe)
-* Bobby Jackson (@rcjackson)
-* Mwai Karimi (@kmwai)
-* Zairah Mustahsan (@zairah10)
-* Disha Umarwani (@dishaumarwani)
+* [Paige Bailey](http://www.github.com/dynamicwebpaige) (@dynamicwebpaige)
+* [Abhipsa Behera](http://www.github.com/abhipsa92) (@abhipsa92)
+* [Bernie Boscoe](http://www.github.com/bboscoe) (@bboscoe)
+* [Bobby Jackson](http://www.github.com/rcjackson) (@rcjackson)
+* [Mwai Karimi](http://www.github.com/kmwai) (@kmwai)
+* [Zairah Mustahsan](http://www.github.com/zairah10) (@zairah10)
+* [Disha Umarwani](http://www.github.com/dishaumarwani) (@dishaumarwani)
