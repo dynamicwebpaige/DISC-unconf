@@ -69,3 +69,5 @@ accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
 * [Link to White Paper Containing Question Tool](https://cdt.org/issue/privacy-data/digital-decisions/)
 
 * [Equality Opportunity](https://drive.google.com/file/d/0B-wQVEjH9yuhanpyQjUwQS1JOTQ/view)
+
+* [Website to report bias] (https://www.ajlunited.org/fight)
