@@ -87,13 +87,12 @@ Fairness, Accountability, and Transparency in Machine Learning - http://fatml.or
 * [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)
 
   DeepMind's Ethics & Society is a research unit within DeepMind that aims to explore and better understand the real-world    
-  impacts of AI.  It aims to help technologists put ethics into practice and help society anticipate and control the effects 
-  of AI, by enlisting some questions around - 
+  impacts of AI. It aims to help technologists put ethics into practice and help society anticipate and control the effects 
+  of AI, by enlisting some questions around:
   * privacy
   * transparency 
   * fairness 
-  * governence and accountability
-  that should be addressed throughout the life cycle of projects. 
+  * governence and accountability that should be addressed throughout the life cycle of projects. 
 
 * [Why We Launched DeepMind Ethics & Society](https://deepmind.com/blog/why-we-launched-deepmind-ethics-society/)
 
