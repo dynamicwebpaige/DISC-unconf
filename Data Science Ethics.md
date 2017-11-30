@@ -10,16 +10,18 @@ Public attitudes to data are changing. Working with data in a way which makes th
 
 ## Some Key Principles
 1. **Start with clear user need and public benefit** - Data science offers huge opportunities to create evidence for policy making  and also make quicker and more accurate decisions. Being clear about the benefit you seek to achieve will help you justify the sensitivity of the data and the methods you want to use. Creating a use case means that you can translate why better understanding will have benefits for individuals. Creating a use case will help you to:
+
     * Consider what risks it justifies and therefore what data and method you should use; risk to privacy, risk of making mistakes	and negative unintended consequences.
     * Start to think about what decisions might be taken as a result of the insight.
 
 2. **Use data tools which have minimum intrusion necessary** - Use minimum data necessary. Sometimes you will need to use sensitive data personal data. You can take steps to safeguard people’s privacy e.g de-identifying or aggregating data to higher levels or using synthetic data. Some data science projects have direct and tangible benefits to individuals & some will improve policymakers understanding so that they can develop better policy. Ways to do this include.
+
    * Only use personal data if similar insight or statistical benefit cannot be achieved using non-personal data.
    * De-identify individuals or aggregate to higher geographical levels where possible.
    * Use synthetic data to get results
    * Query against datasets through APIs rather than having access to the whole data set. 
    
-    + You must take reasonable steps to ensure that individuals will not be identifiable when you link data or combine it with
+   You must take reasonable steps to ensure that individuals will not be identifiable when you link data or combine it with
   other data in the public domain. The increasing number of data sets available now or in the future means that it might be
   easier to link to other open data sources to infer to an individual's identity or personal information about them.
  
