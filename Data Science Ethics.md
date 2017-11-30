@@ -18,9 +18,11 @@ Public attitudes to data are changing. Working with data in a way which makes th
    * De-identify individuals or aggregate to higher geographical levels where possible.
    * Use synthetic data to get results
    * Query against datasets through APIs rather than having access to the whole data set. 
- You must take reasonable steps to ensure that individuals will not be identifiable when you link data or combine it with other data in the public domain. The increasing number of data sets available now or in the future means that it might be          easier to link to other open data sources to infer to an individual's identity or personal information about them.   
-
-
+   
+ You must take reasonable steps to ensure that individuals will not be identifiable when you link data or combine it with
+ other data in the public domain. The increasing number of data sets available now or in the future means that it might be
+ easier to link to other open data sources to infer to an individual's identity or personal information about them.
+ 
 3. **Create robust data science models** - Good machine learning models can analyse far larger amounts of data far more quickly and accurately than traditional methods. We should think through the quality and representativeness of the data, flag if algorithms are using protected characteristics e.g ethnicity to make decisions, think through unintended consequences. Complex decisions may well need the wider knowledge of policy or operational experts.
 
 4. **Be alert to public perceptions** - The law tells us what we can do but ethics tell us what we should do. Ethics become more important when advances in technology are pushing our understanding of the law to its limits. The law and ethical practice enables us to understand public opinion so we can work out what we should do. It is vital to understand both stated and revealed public opinion about how people would actually want the data you hold them to be used. Consult with others to work out if projects are acceptable.
