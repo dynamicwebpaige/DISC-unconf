@@ -87,6 +87,15 @@ https://fatconference.org/resources.html
   that should be addressed throughout the life cycle of projects. 
 
 * [Why We Launched DeepMind Ethics & Society](https://deepmind.com/blog/why-we-launched-deepmind-ethics-society/)
+  Quoting from DeepMind's webpage:
+  
+  "The development of AI creates important and complex questions. Its impact on society—and on all our lives—is not something 
+  that should be left to chance. Beneficial outcomes and protections against harms must be actively fought for and built-in 
+  from the beginning. But in a field as complex as AI, this is easier said than done."
+  
+  DeepMind being the world leader in artificial intelligence research and its application for positive impact, provides a 
+  clear motivation and need for ethics in AI. It is imperative to have similar Ethics groups working hand in hand with the 
+  development teams in all organizations.  
 
 * [Responsible Data Science](http://www.responsibledatascience.org/)
 
