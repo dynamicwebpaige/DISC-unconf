@@ -2,4 +2,4 @@
 
 ## Creating an Ethical Algorithm
 
-![]('data/1.jpg')
+![]('/data/1.jpg')
