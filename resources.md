@@ -8,17 +8,6 @@ We are at a stage in technology where we need to make wide decisions of how we w
 
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
 
-
----------------------------- Bobby -------------------------------
-
-* [AI NOW](https://ainowinstitute.org/)
-
-AI NOW is a research center based out of New York University focusing on the social implications of AI. Their research focuses on studying biases made by AIs that are used to make decisions related to housing, criminal justice, and employment. They also focus on determining the bias in datasets used to train AIs. Finally, they study how to safely integrate AIs into algorithms used by critical infrastructures.
-
-* [AI NOW report](https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf)
-
-The AI NOW report summaries several recommendations made by AI NOW in the implementation of AI algorithms for making decisions in hiring, housing, as well as addressing biases in AI research itself. The report also contains a comprehensive literature review summarizing recent work in studying the social implications of AI.
-
 * [Algorithms and bias: What lenders need to know](www.whitecase.com/publications/insight/algorithms-and-bias-what-lenders-need-know)
 
 This article provides a guide on what banks need to consider when using AIs to make decisions regarding lending. It details several main points:
@@ -78,7 +67,11 @@ accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
 
 * [AI NOW](https://ainowinstitute.org/)
 
-* [AI NOW report](https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf)-ORG
+AI NOW is a research center based out of New York University focusing on the social implications of AI. Their research focuses on studying biases made by AIs that are used to make decisions related to housing, criminal justice, and employment. They also focus on determining the bias in datasets used to train AIs. Finally, they study how to safely integrate AIs into algorithms used by critical infrastructures.
+
+* [AI NOW report](https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf)
+
+The AI NOW report summaries several recommendations made by AI NOW in the implementation of AI algorithms for making decisions in hiring, housing, as well as addressing biases in AI research itself. The report also contains a comprehensive literature review summarizing recent work in studying the social implications of AI.
 
 * [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)
 
@@ -110,16 +103,11 @@ accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
 
 * [principles for accountable algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms)
 
-
 * [IEEE standards for AI ethics](http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html)
 
 * [Website to report bias] (https://www.ajlunited.org/fight)
 
-
 This is an interview of Kate Crawford, a cofounder of AI Now, conducted by WIRED magazine. She is asked several questions which include  the current state of ethics in AI, how AI developers need to both hire people outside of computer science to better understand social implications, and the state of government funding of ethics research under the Trump adminstration.
-     
----------------------------- Bernie -------------------------------
-=======
 
 * Upcoming conference-- 
 https://fatconference.org/index.html
@@ -177,7 +165,6 @@ Fairness, Accountability, and Transparency in Machine Learning - http://fatml.or
 
 * [make algorithms accountable](https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html)
 
-<
 This is a NY times article about how there needs to be increased transparency and accountability when it comes to examining data used by algorithms. A case of where an algorithm detecting the risk of criminal recidivism was biased against black defendants is established as an example for such a need. The article goes over efforts by the European Union to regulate such algorithms as well as recommendations from the White House on holding such algorithms accountable.
 
 * [IEEE standards for AI ethics](http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html)
@@ -193,9 +180,6 @@ The IEEE has published standards for the ethical application of AI. They are gro
   * Reframing Autonomous Weapons Systems
   * Economics/Humanitarian Issues
   * Law
-  
-  
-=======
 
 * [Algorithmic accountability](https://techcrunch.com/2017/04/30/algorithmic-accountability/)
 
