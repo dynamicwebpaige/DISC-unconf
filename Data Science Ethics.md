@@ -17,9 +17,9 @@ Public attitudes to data are changing. Working with data in a way which makes th
    * Only use personal data if similar insight or statistical benefit cannot be achieved using non-personal data.
    * De-identify individuals or aggregate to higher geographical levels where possible.
    * Use synthetic data to get results
-   * Query against datasets through APIs rather than having access to the whole data set.
-   
- You must take reasonable steps to ensure that individuals will not be identifiable when you link data or combine it with           other data in the public domain. The increasing number of data sets available now or in the future means that it might be         easier to link to other open data sources to infer to an individual's identity or personal information about them.
+   * Query against datasets through APIs rather than having access to the whole data set. 
+ You must take reasonable steps to ensure that individuals will not be identifiable when you link data or combine it with other data in the public domain. The increasing number of data sets available now or in the future means that it might be          easier to link to other open data sources to infer to an individual's identity or personal information about them.   
+
 
 3. **Create robust data science models** - Good machine learning models can analyse far larger amounts of data far more quickly and accurately than traditional methods. We should think through the quality and representativeness of the data, flag if algorithms are using protected characteristics e.g ethnicity to make decisions, think through unintended consequences. Complex decisions may well need the wider knowledge of policy or operational experts.
 
