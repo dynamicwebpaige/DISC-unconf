@@ -15,7 +15,7 @@ Public attitudes to data are changing. Working with data in a way which makes th
     * Consider what risks it justifies and therefore what data and method you should use; risk to privacy, risk of making mistakes	and negative unintended consequences.
     * Start to think about what decisions might be taken as a result of the insight.
 
-2. **Use data tools which have minimum intrusion necessary** - Use minimum data necessary. Sometimes you will need to use sensitive data personal data. You can take steps to safeguard people’s privacy e.g de-identifying or aggregating data to higher levels or using synthetic data. Some data science projects have direct and tangible benefits to individuals & some will improve policymakers understanding so that they can develop better policy. Ways to do this include.
+2. **Use data tools which have minimum intrusion necessary** - Use minimum data necessary. Sometimes you will need to use sensitive personal data. You can take steps to safeguard people’s privacy e.g de-identifying or aggregating data to higher levels or using synthetic data. Some data science projects have direct and tangible benefits to individuals & some will improve policymakers understanding so that they can develop better policy. Ways to do this include.
 
    - Only use personal data if similar insight or statistical benefit cannot be achieved using non-personal data.
    - De-identify individuals or aggregate to higher geographical levels where possible.
