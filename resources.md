@@ -76,7 +76,8 @@ https://fatconference.org/resources.html
 * [An AI Recruiter Could Find You Your Next Job](https://www.technologyreview.com/the-download/609570/an-ai-recruiter-could-find-you-your-next-job/)
 
 ---------------------------- Zairah -------------------------------
-* [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)\s\s
+* [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)
+
   DeepMind's Ethics & Society is a research unit within DeepMind that aims to explore and better understand the real-world    
   impacts of AI.  It aims to help technologists put ethics into practice and help society anticipate and control the effects 
   of AI, by enlisting some questions around - 
@@ -88,6 +89,13 @@ https://fatconference.org/resources.html
 
 * [Why We Launched DeepMind Ethics & Society](https://deepmind.com/blog/why-we-launched-deepmind-ethics-society/)
 
+  Quoting DeepMind's Ethics webpage:
+  "The development of AI creates important and complex questions. Its impact on society—and on all our lives—is not something    that should be left to chance. Beneficial outcomes and protections against harms must be actively fought for and built-in 
+   from the beginning. But in a field as complex as AI, this is easier said than done"
+  
+  
+  DeepMind being the world leader in artificial intelligence research and its application for positive impact, provides clear   motivation and need to include ethics in AI. It is imperative to have similar ethics groups working hand in hand with the     development teams in all organizations. 
+   
 * [Responsible Data Science](http://www.responsibledatascience.org/)
 
 
