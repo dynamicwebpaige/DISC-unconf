@@ -1,5 +1,5 @@
 ## References 
----------------------------- Disha -------------------------------
+
 * [How We Examined Racial Discrimination in Auto Insurance Prices](https://www.propublica.org/article/minority-neighborhoods-higher-car-insurance-premiums-methodology)
 
 * [Turns Out Algorithms Are Racist](https://newrepublic.com/article/144644/turns-algorithms-racist?utm_content=buffer7f3ea&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
@@ -22,7 +22,7 @@ https://www.ajlunited.org/fight
 
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
 
----------------------------- Bobby -------------------------------
+
 * [AI NOW](https://ainowinstitute.org/)
 * [AI NOW report](https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf)
 
@@ -31,7 +31,7 @@ https://www.ajlunited.org/fight
 
 * [WHY AI IS STILL WAITING FOR ITS ETHICS TRANSPLANT](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/)
 
----------------------------- Bernie -------------------------------
+
 * Upcoming conference-- 
 https://fatconference.org/index.html
 The first FAT (Fairness Accountability Transparency in socio-technical systems) conference to be held in Feb 2018 in NYC.
@@ -86,7 +86,7 @@ Fairness, Accountability, and Transparency in Machine Learning - http://fatml.or
 https://fatconference.org/resources.html 
 
 
----------------------------- Zairah -------------------------------
+
 * [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)
 
   DeepMind's Ethics & Society is a research unit within DeepMind that aims to explore and better understand the real-world    
@@ -115,7 +115,7 @@ https://fatconference.org/resources.html
   systems thus ensuring responsible use without inhibiting the power of data science. They conduct seminars and workshops (so 
   far within Netherlands) and the material is available on their webpage as well. 
 
----------------------------- Abhipsa ------------------------------
+
 * [How do machines learning algorithms learn bias?](https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555809a1decb)
 
 * [Controlling machine learning algorithms and their biases](https://www.mckinsey.com/business-functions/risk/our-insights/controlling-machine-learning-algorithms-and-their-biases)
