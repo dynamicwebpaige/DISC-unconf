@@ -131,14 +131,21 @@ Or will you **build new tools from scratch**?
 
 ### Test
 
-#### Re-evaluate Variables and Data
-You will need to **address errors by changing your variables and/or data**.
+#### Run Model
+After you audit the results, you must **test the model on preliminary data set(s)**.
 
-* Process any new data and variables with the same inquiry as the original model.
-* What factors are predominant in determining outcomes?
-* Are unintended factors or variables correlated with sensitive characteristics?
+* Can you test your product using a data set that is representative (or over-samples) a diverse population based on race, socioeconomic status, gender, sexual orientation, ethnicity, age, disability, education, etc.?
 
-![](data/15.JPG)
+![](data/18.JPG)
+
+#### Audit Results
+Then you wil need to **determine if your model performed in a way that you designed**.
+
+* Is a person accountable for addressing biased results and resolving issues with errors?
+* Did your feedback mechanism capture and report anomalous results in a way that allows you to check for biased outcomes?
+* What about the results is consistent with your expectations? Where do the results deviate?
+
+![](data/22.JPG)
 
 #### Identify Errors
 
@@ -156,16 +163,14 @@ You will need to **address errors by changing your variables and/or data**.
 
 ![](data/17.JPG)
 
-#### Audit Results
+#### Re-evaluate Variables and Data
+You will need to **address errors by changing your variables and/or data**.
 
-//////////// CHECK ///////////////
+* Process any new data and variables with the same inquiry as the original model.
+* What factors are predominant in determining outcomes?
+* Are unintended factors or variables correlated with sensitive characteristics?
 
-#### Run Model
-After you audit the results, you must **test the model on preliminary data set(s)**.
-
-* Can you test your product using a data set that is representative (or over-samples) a diverse population based on race, socioeconomic status, gender, sexual orientation, ethnicity, age, disability, education, etc.?
-
-![](data/18.JPG)
+![](data/15.JPG)
 
 ### Implement
 
@@ -180,7 +185,11 @@ After you audit the results, you must **test the model on preliminary data set(s
 
 ##### Interpret Results
 
-//////////////////// CHECK //////////////////
+* Does your product work equally as well for all types of people?
+* Can you determine metrics that demonstrate the reliability of your model (the degree to which it performs as expected)?
+* Can you inform future users of the data, current data subjects, and other audiences of your product about its weaknesses and remaining biases?
+
+![](data/23.JPG)
 
 #### Monitor Results
 
@@ -192,24 +201,3 @@ After you audit the results, you must **test the model on preliminary data set(s
 * Do you discard the data? If not, how do you keep it secure?
 
 ![](data/20.JPG)
-
-![](data/1.JPG)
-![](data/2.JPG)
-![](data/3.JPG)
-![](data/4.JPG)
-![](data/5.JPG)
-![](data/6.JPG)
-![](data/7.JPG)
-![](data/8.JPG)
-![](data/9.JPG)
-![](data/10.JPG)
-![](data/11.JPG)
-![](data/12.JPG)
-![](data/13.JPG)
-![](data/14.JPG)
-![](data/15.JPG)
-![](data/16.JPG)
-![](data/17.JPG)
-![](data/18.JPG)
-![](data/21.JPG)
-![](data/22.JPG)
