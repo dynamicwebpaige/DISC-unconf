@@ -71,9 +71,6 @@ Fairness, Accountability, and Transparency in Machine Learning - http://fatml.or
 * lots of resources--
 https://fatconference.org/resources.html 
 
-* [SAP Uses Machine Learning to Find Gender Biased Job Posts](https://www.hrtechnologist.com/news/requisitionjob-posting/sap-uses-machine-learning-to-find-gender-biased-job-posts/)
-
-* [An AI Recruiter Could Find You Your Next Job](https://www.technologyreview.com/the-download/609570/an-ai-recruiter-could-find-you-your-next-job/)
 
 ---------------------------- Zairah -------------------------------
 * [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)
