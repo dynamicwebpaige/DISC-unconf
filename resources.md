@@ -1,14 +1,26 @@
 ## References 
 
-# Algorithms are Biased - 
+### Algorithms are Biased - 
 
-* [How We Examined Racial Discrimination in Auto Insurance Prices](https://www.propublica.org/article/minority-neighborhoods-higher-car-insurance-premiums-methodology) -  Solution
+* [Turns Out Algorithms Are Racist](https://newrepublic.com/article/144644/turns-algorithms-racist?utm_content=buffer7f3ea&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
-* [Turns Out Algorithms Are Racist](https://newrepublic.com/article/144644/turns-algorithms-racist?utm_content=buffer7f3ea&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Algos are Biased
+* [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
+
+* [Algorithms and bias: What lenders need to know](www.whitecase.com/publications/insight/algorithms-and-bias-what-lenders-need-know)
+
+* [WHY AI IS STILL WAITING FOR ITS ETHICS TRANSPLANT](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/)
+
+* [How do machines learning algorithms learn bias?](https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555809a1decb)
+
+* [Bias in software to predict future criminals - biased against blacks](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+
+### Solutions - 
+
+* [How We Examined Racial Discrimination in Auto Insurance Prices](https://www.propublica.org/article/minority-neighborhoods-higher-car-insurance-premiums-methodology)
 
 We are at a stage in technology where we need to make wide decisions of how we wish to learn from the past. Do we wish to imitate it or bring about a change. We need to challenge the inequalities that are present in the society. The first stage for this is the design process where the Data Scientist needs to understand which features are making the features bais. One should not let the black box decide and offers pronouncements and that we are encouraged to obey.
 
-* [How I'm Fighting Bias in Algorithms (Ted Talk)](http://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms) - Solutions
+* [How I'm Fighting Bias in Algorithms (Ted Talk)](http://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
 
  What if you go to the washroom and the tap does not respond to your hands but it does for your your friend’s. Computer Vision uses images to recognize people and objects. But what if we train it with undiversified dataset[^[1]]. It will only respond to white skin because that is only what it has seen. There have been reported indices when a webcam is not able to detect black faces.[1] Not only this image recognition softwares have been associating cleaning or the kitchen with women, for example and sports with men[^[1]].
 
@@ -21,21 +33,59 @@ There needs to be a system that audits the existing software for impact that it 
 There is a website where you can report discrimination that you’ve faced while using AI
 https://www.ajlunited.org/fight
  
+* [Controlling machine learning algorithms and their biases](https://www.mckinsey.com/business-functions/risk/our-insights/controlling-machine-learning-algorithms-and-their-biases) 
 
-* [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/) - Algos are Biased
+* [Counterfactual Fairness - Causal models capture social biases and make clear the implicit trade-off between prediction
+accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf)
 
+* [Attacking Discrimination in ML- google research paper](https://research.google.com/bigpicture/attacking-discrimination-in-ml/)
 
-* [AI NOW](https://ainowinstitute.org/) - ORGS
+* [Equality Opportunity](https://drive.google.com/file/d/0B-wQVEjH9yuhanpyQjUwQS1JOTQ/view)
+
+* [Link to White Paper Containing Question Tool](https://cdt.org/issue/privacy-data/digital-decisions/)
+
+### Involved Organizations and Communities - 
+
+* [AI NOW](https://ainowinstitute.org/)
+
 * [AI NOW report](https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf)-ORG
 
-* [Algorithms and bias: What lenders need to know](www.whitecase.com/publications/insight/algorithms-and-bias-what-lenders-need-know) - Algos are Biased
+* [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)
+
+  DeepMind's Ethics & Society is a research unit within DeepMind that aims to explore and better understand the real-world    
+  impacts of AI. It aims to help technologists put ethics into practice and help society anticipate and control the effects 
+  of AI, by enlisting some questions around:
+  * privacy
+  * transparency 
+  * fairness 
+  * governence and accountability that should be addressed throughout the life cycle of projects. 
+
+* [Why We Launched DeepMind Ethics & Society](https://deepmind.com/blog/why-we-launched-deepmind-ethics-society/)
+
+  Quoting DeepMind's Ethics webpage:
+  
+  "The development of AI creates important and complex questions. Its impact on society—and on all our lives—is not something    that should be left to chance. Beneficial outcomes and protections against harms must be actively fought for and built-in 
+   from the beginning. But in a field as complex as AI, this is easier said than done"
+  
+  
+  DeepMind being the world leader in artificial intelligence research and its application for positive impact, provides clear   motivation and need to include ethics in AI. It is imperative to have similar ethics groups working hand in hand with the     development teams in all organizations. 
+   
+* [Responsible Data Science](http://www.responsibledatascience.org/)
+
+  Responsible Data Science is a novel collaboration between principal scientists from 11 universities and research institutes 
+  in the Netherlands. RDS aims to provide the technology to build in fairness, accuracy, confidentiality, and transparency in 
+  systems thus ensuring responsible use without inhibiting the power of data science. They conduct seminars and workshops (so 
+  far within Netherlands) and the material is available on their webpage as well. 
+
+* [principles for accountable algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms)
 
 
-* [WHY AI IS STILL WAITING FOR ITS ETHICS TRANSPLANT](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/) - Algos are Biased
+* [IEEE standards for AI ethics](http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html)
 
+* [Website to report bias] (https://www.ajlunited.org/fight)
 
 * Upcoming conference-- 
-https://fatconference.org/index.html - ORG
+https://fatconference.org/index.html
 The first FAT (Fairness Accountability Transparency in socio-technical systems) conference to be held in Feb 2018 in NYC.
 FAT* is an annual conference dedicating to bringing together a diverse community to investigate and tackle issues in this emerging area. Topics of interest include, but are not limited to:
 
@@ -46,7 +96,7 @@ The ethical, moral, social, and policy implications of big data and ubiquitous i
 
 Conference on Fairness, Accountability, and Transparency - Call for Tutorials
 
-https://fatconference.org/2018/cftutorials.html -ORG
+https://fatconference.org/2018/cftutorials.html
 
 We are soliciting calls for two types of tutorials at FAT* 2018: hands-on tutorials and translation tutorials. Both types of tutorials will give presenters 1 hour to address technical and/or policy/law FAT* issues for a broad audience.
 
@@ -84,61 +134,15 @@ Submissions should be emailed in PDF format to the PC Co-chairs: Sorelle Friedle
 
 Fairness, Accountability, and Transparency in Machine Learning - http://fatml.org/
 
-* [Resources](https://fatconference.org/resources.html) - ORG
+* [Resources](https://fatconference.org/resources.html)
 
-* [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/) - ORG
+### Miscellaneous - 
 
-  DeepMind's Ethics & Society is a research unit within DeepMind that aims to explore and better understand the real-world    
-  impacts of AI. It aims to help technologists put ethics into practice and help society anticipate and control the effects 
-  of AI, by enlisting some questions around:
-  * privacy
-  * transparency 
-  * fairness 
-  * governence and accountability that should be addressed throughout the life cycle of projects. 
+* [make algorithms accountable](https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html)
 
-* [Why We Launched DeepMind Ethics & Society](https://deepmind.com/blog/why-we-launched-deepmind-ethics-society/) - ORG
+* [Algorithmic accountability](https://techcrunch.com/2017/04/30/algorithmic-accountability/)
 
-  Quoting DeepMind's Ethics webpage:
-  
-  "The development of AI creates important and complex questions. Its impact on society—and on all our lives—is not something    that should be left to chance. Beneficial outcomes and protections against harms must be actively fought for and built-in 
-   from the beginning. But in a field as complex as AI, this is easier said than done"
-  
-  
-  DeepMind being the world leader in artificial intelligence research and its application for positive impact, provides clear   motivation and need to include ethics in AI. It is imperative to have similar ethics groups working hand in hand with the     development teams in all organizations. 
-   
-* [Responsible Data Science](http://www.responsibledatascience.org/) - ORG
+* [Partnership in AI](https://www.partnershiponai.org)
 
-  Responsible Data Science is a novel collaboration between principal scientists from 11 universities and research institutes 
-  in the Netherlands. RDS aims to provide the technology to build in fairness, accuracy, confidentiality, and transparency in 
-  systems thus ensuring responsible use without inhibiting the power of data science. They conduct seminars and workshops (so 
-  far within Netherlands) and the material is available on their webpage as well. 
+* [Book: What Algorithms Want - Ed Finn](https://mitpress.mit.edu/books/what-algorithms-want)
 
-
-* [How do machines learning algorithms learn bias?](https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555809a1decb) - Algos are Biased
-
-* [Controlling machine learning algorithms and their biases](https://www.mckinsey.com/business-functions/risk/our-insights/controlling-machine-learning-algorithms-and-their-biases) - Solutions
-
-* [Counterfactual Fairness - Causal models capture social biases and make clear the implicit trade-off between prediction
-accuracy and fairness in an unfair world](https://arxiv.org/pdf/1703.06856.pdf) - Solutions
-
-* [Attacking Discrimination in ML- google research paper](https://research.google.com/bigpicture/attacking-discrimination-in-ml/) - Solutions
-
-* [Equality Opportunity](https://drive.google.com/file/d/0B-wQVEjH9yuhanpyQjUwQS1JOTQ/view) - Solutions
-
-* [principles for accountable algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms) - ORG
-
-* [make algorithms accountable](https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html) - MSC
-
-* [IEEE standards for AI ethics](http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html) - ORG
-
-* [Algorithmic accountability](https://techcrunch.com/2017/04/30/algorithmic-accountability/) - MSC
-
-* [Partnership in AI](https://www.partnershiponai.org) - MSC
-
-* [Book: What Algorithms Want - Ed Finn](https://mitpress.mit.edu/books/what-algorithms-want) - MSC
-
-* [Link to White Paper Containing Question Tool](https://cdt.org/issue/privacy-data/digital-decisions/) - Solution
-
-* [Website to report bias] (https://www.ajlunited.org/fight) - ORG
-
-* [Bias in software to predict future criminals - biased against blacks](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) -  - Algos are Biased
