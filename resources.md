@@ -6,8 +6,6 @@
 
 We are at a stage in technology where we need to make wide decisions of how we wish to learn from the past. Do we wish to imitate it or bring about a change. We need to challenge the inequalities that are present in the society. The first stage for this is the design process where the Data Scientist needs to understand which features are making the features bais. One should not let the black box decide and offers pronouncements and that we are encouraged to obey.
 
-* [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
-
 * [Algorithms and bias: What lenders need to know](www.whitecase.com/publications/insight/algorithms-and-bias-what-lenders-need-know)
 
 This article provides a guide on what banks need to consider when using AIs to make decisions regarding lending. It details several main points:
@@ -17,6 +15,8 @@ This article provides a guide on what banks need to consider when using AIs to m
      * Recommendations are made that lenders monitor changing regulations and test for potential bias.
      * Any feature in the algorithm should be carefully justified.
      * Algorithms to examine bias in AI algorithms should be developed.
+     
+* [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
 
 * [Algorithms and bias: What lenders need to know](www.whitecase.com/publications/insight/algorithms-and-bias-what-lenders-need-know)
 
