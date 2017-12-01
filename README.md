@@ -18,3 +18,6 @@ This repository contains a collection of materials designed to assist in the cre
 * [Mwai Karimi](http://www.github.com/kmwai) (@kmwai)
 * [Zairah Mustahsan](http://www.github.com/zairah10) (@zairah10)
 * [Disha Umarwani](http://www.github.com/dishaumarwani) (@dishaumarwani)
+
+#### Contact Us
+For suggestions, comments, and questions, please email [Paige Bailey](mailto:paige.bailey@microsoft.com), or reach out on Twitter to [@DynamicWebPaige](http://www.twitter.com/dynamicwebpaige).
